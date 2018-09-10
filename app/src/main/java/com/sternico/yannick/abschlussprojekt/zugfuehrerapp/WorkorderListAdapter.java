@@ -9,7 +9,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-
 public class WorkorderListAdapter extends RecyclerView.Adapter<WorkorderListAdapter.WorkorderView> {
 
     class WorkorderView extends RecyclerView.ViewHolder {
